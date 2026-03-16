@@ -56,7 +56,7 @@ const matheus = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusVBLima&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=1f6feb&icon_color=1f6feb&title_color=1f6feb"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusVBLima&show_icons=true&theme=github_dark&count_private=true&border_color=1f6feb&icon_color=1f6feb&title_color=1f6feb"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVBLima&layout=compact&langs_count=7&theme=github_dark&border_color=1f6feb&title_color=1f6feb"/>
 </div>
 
