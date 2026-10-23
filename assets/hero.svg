@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="320" viewBox="0 0 840 320" role="img" aria-label="Matheus Lima, AI Engineer: Development, Design, Automation">
+<title>Matheus Lima, AI Engineer: Development, Design, Automation</title>
+<style>
+  .sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+  .in{animation:in .6s ease both}
+  @keyframes in{from{opacity:0}to{opacity:1}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  .cursor{animation:blink 1.1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  .pulse{animation:pulse 2.4s ease-in-out infinite}
+  @keyframes pulse{50%{opacity:.35}}</style>
+<defs>
+  <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#110d1f"/><stop offset="1" stop-color="#0c0a14"/></linearGradient>
+  <radialGradient id="glow" cx="0.85" cy="0" r="0.75"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".38"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c4b5fd"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6d28d9"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity=".07"/></pattern>
+</defs>
+<rect width="840" height="320" rx="18" fill="url(#bgGrad)"/>
+<rect width="840" height="320" rx="18" fill="url(#dots)"/>
+<rect width="840" height="320" rx="18" fill="url(#glow)"/>
+<rect x=".5" y=".5" width="839" height="319" rx="17.5" fill="none" stroke="#2a2342"/>
+<g class="in">
+  <circle class="pulse" cx="47" cy="62" r="4" fill="#a78bfa"/>
+  <text x="60" y="66" class="mono" font-size="12" letter-spacing="2.5" fill="#a78bfa">AI ENGINEER</text>
+  <text x="38" y="128" class="sans" font-size="54" font-weight="700" fill="#f5f3ff" letter-spacing="-1">Matheus Lima</text>
+  <text x="40" y="166" class="sans" font-size="17" fill="#a09cb8">I build AI agents, RAG pipelines and automations,</text>
+  <text x="40" y="191" class="sans" font-size="17" fill="#a09cb8">and design the products around them.</text>
+  <rect x="40" y="214" width="120" height="32" rx="16" fill="#0a0811" stroke="#2a2342"/><circle cx="56" cy="230" r="3" fill="#a78bfa"/><text x="67" y="234.32" class="mono" font-size="12" fill="#f5f3ff">Development</text><rect x="170" y="214" width="84" height="32" rx="16" fill="#0a0811" stroke="#2a2342"/><circle cx="186" cy="230" r="3" fill="#a78bfa"/><text x="197" y="234.32" class="mono" font-size="12" fill="#f5f3ff">Design</text><rect x="264" y="214" width="113" height="32" rx="16" fill="#0a0811" stroke="#2a2342"/><circle cx="280" cy="230" r="3" fill="#a78bfa"/><text x="291" y="234.32" class="mono" font-size="12" fill="#f5f3ff">Automation</text>
+  <text x="40" y="282" class="mono" font-size="12" fill="#6e6888">Recife, Brazil · Remote · 7+ years shipping products</text>
+</g>
+<rect x="476" y="40" width="324" height="240" rx="12" fill="#0a0811" fill-opacity=".92" stroke="#2a2342"/>
+<path d="M476 74h324" stroke="#2a2342"/>
+<circle cx="494" cy="57" r="5" fill="#ff5f57" fill-opacity=".85"/>
+<circle cx="511" cy="57" r="5" fill="#febc2e" fill-opacity=".85"/>
+<circle cx="528" cy="57" r="5" fill="#28c840" fill-opacity=".85"/>
+<text x="638" y="61" text-anchor="middle" class="mono" font-size="11.5" fill="#6e6888">agent.ts</text>
+<g class="in" style="animation-delay:0.5s">
+  <text x="496" y="116" class="mono" font-size="12.5" fill="#a78bfa">›</text>
+  <text x="514" y="116" class="mono" font-size="12.5" fill="#f5f3ff">agent.run(task)</text>
+  
+</g><g class="in" style="animation-delay:1.05s">
+  <text x="496" y="142" class="mono" font-size="12.5" fill="#a78bfa">●</text>
+  <text x="514" y="142" class="mono" font-size="12.5" fill="#a09cb8">plan</text>
+  <text x="626" y="142" class="mono" font-size="12.5" fill="#6e6888">3 steps</text>
+</g><g class="in" style="animation-delay:1.6s">
+  <text x="496" y="168" class="mono" font-size="12.5" fill="#a78bfa">●</text>
+  <text x="514" y="168" class="mono" font-size="12.5" fill="#a09cb8">retrieve</text>
+  <text x="626" y="168" class="mono" font-size="12.5" fill="#6e6888">rag · 12 docs</text>
+</g><g class="in" style="animation-delay:2.1500000000000004s">
+  <text x="496" y="194" class="mono" font-size="12.5" fill="#a78bfa">●</text>
+  <text x="514" y="194" class="mono" font-size="12.5" fill="#a09cb8">call_tool</text>
+  <text x="626" y="194" class="mono" font-size="12.5" fill="#6e6888">mcp · github</text>
+</g><g class="in" style="animation-delay:2.7s">
+  <text x="496" y="220" class="mono" font-size="12.5" fill="#a78bfa">●</text>
+  <text x="514" y="220" class="mono" font-size="12.5" fill="#a09cb8">evaluate</text>
+  <text x="626" y="220" class="mono" font-size="12.5" fill="#6e6888">score 0.97</text>
+</g><g class="in" style="animation-delay:3.25s">
+  <text x="496" y="246" class="mono" font-size="12.5" fill="#4ade80">✓</text>
+  <text x="514" y="246" class="mono" font-size="12.5" fill="#4ade80">shipped to production</text>
+  
+</g><g class="in" style="animation-delay:3.8000000000000003s"><text x="496" y="272" class="mono" font-size="12.5" fill="#a78bfa">›</text><rect class="cursor" x="514" y="261" width="8" height="14" fill="#a78bfa"/></g>
+</svg>
